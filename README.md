@@ -8,7 +8,7 @@ This is my github profile. ☺
 
 ![laravel](https://img.shields.io/badge/-laravel-red?style=for-the-badge)
 ![php](https://img.shields.io/badge/-php-blueviolet?style=for-the-badge)
-![node](https://img.shields.io/badge/-node-red?style=for-the-badge)
+![nodejs](https://img.shields.io/badge/-nodejs-red?style=for-the-badge)
 ![sql](https://img.shields.io/badge/-sql-blueviolet?style=for-the-badge)
 ![python](https://img.shields.io/badge/-python-red?style=for-the-badge)
 ![java](https://img.shields.io/badge/-java-blueviolet?style=for-the-badge)
