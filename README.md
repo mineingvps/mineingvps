@@ -38,6 +38,5 @@ This is my github profile. ☺
    </tr>
     <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="100"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
    </tr>
 </table>
