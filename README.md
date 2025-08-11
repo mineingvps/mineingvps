@@ -20,7 +20,7 @@ This is my github profile. ☺
 ![Spring boot](https://img.shields.io/badge/-Springboot-blueviolet?style=for-the-badge)
 ![.NETCORE](https://img.shields.io/badge/-.NET-red?style=for-the-badge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mineingvps&hide=css,scss,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wachakorn&hide=css,scss,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=tanongsakintean&hide=javascript,html&show_icons=true&theme=radical) -->
 
 
